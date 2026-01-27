@@ -14,7 +14,6 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
 );
 
-// ✅ CORS
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReact", policy =>
@@ -25,7 +24,6 @@ builder.Services.AddCors(options =>
     });
 });
 
-// ✅ JWT
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
@@ -51,8 +49,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();   // 🔴 THIS WAS MISSING
-app.UseCors("AllowReact");   // CORS must be BEFORE auth
+app.UseHttpsRedirection();  
+app.UseCors("AllowReact");  
 app.UseAuthentication();
 app.UseAuthorization();
 
