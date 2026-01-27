@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "SMS\\Controllers\\StudentsController.cs",
               "ToolTip": "D:\\C-DAC\\SMS\\SMS\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "SMS\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T09:46:26.683Z",
               "EditorCaption": ""
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "SMS\\Models\\Enrollment.cs",
@@ -103,7 +103,8 @@
               "RelativeToolTip": "SMS\\Models\\Enrollment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T08:57:28.451Z"
+              "WhenOpened": "2026-01-21T08:57:28.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -119,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\Models\\Student.cs",
               "RelativeDocumentMoniker": "SMS\\Models\\Student.cs",
@@ -127,12 +128,11 @@
               "RelativeToolTip": "SMS\\Models\\Student.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T08:55:03.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T08:55:03.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SMS\\Data\\AppDbContext.cs",
@@ -140,18 +140,17 @@
               "RelativeToolTip": "SMS\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T08:54:00.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T08:54:00.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\Program.cs",
               "RelativeDocumentMoniker": "SMS\\Program.cs",
               "ToolTip": "D:\\C-DAC\\SMS\\SMS\\Program.cs",
               "RelativeToolTip": "SMS\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T08:37:08.273Z",
               "EditorCaption": ""
