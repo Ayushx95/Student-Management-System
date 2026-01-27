@@ -1,12 +1,200 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\C-DAC\\SMS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|d:\\c-dac\\sms\\sms\\sms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B699A081-65EE-B769-0F15-EC6802EA6931}|SMS\\SMS.csproj|solutionrelative:sms\\sms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "SMS\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\C-DAC\\SMS\\SMS\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "SMS\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T09:46:26.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "SMS\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\C-DAC\\SMS\\SMS\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "SMS\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:17:09.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "SMS\\DTOs\\RegisterDto.cs",
+              "ToolTip": "D:\\C-DAC\\SMS\\SMS\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "SMS\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:16:32.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "SMS\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\C-DAC\\SMS\\SMS\\Models\\Enrollment.cs",
+              "RelativeToolTip": "SMS\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:57:28.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "SMS\\Models\\Course.cs",
+              "ToolTip": "D:\\C-DAC\\SMS\\SMS\\Models\\Course.cs",
+              "RelativeToolTip": "SMS\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:55:56.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SMS\\Models\\Student.cs",
+              "ToolTip": "D:\\C-DAC\\SMS\\SMS\\Models\\Student.cs",
+              "RelativeToolTip": "SMS\\Models\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:55:03.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SMS\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\C-DAC\\SMS\\SMS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SMS\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:54:00.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\Program.cs",
+              "RelativeDocumentMoniker": "SMS\\Program.cs",
+              "ToolTip": "D:\\C-DAC\\SMS\\SMS\\Program.cs",
+              "RelativeToolTip": "SMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:37:08.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "SMS\\Models\\Attendance.cs",
+              "ToolTip": "D:\\C-DAC\\SMS\\SMS\\Models\\Attendance.cs",
+              "RelativeToolTip": "SMS\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:57:50.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SMS.csproj",
+              "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\SMS.csproj",
+              "RelativeDocumentMoniker": "SMS\\SMS.csproj",
+              "ToolTip": "D:\\C-DAC\\SMS\\SMS\\SMS.csproj",
+              "RelativeToolTip": "SMS\\SMS.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T09:10:26.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C-DAC\\SMS\\SMS\\appsettings.json",
+              "RelativeDocumentMoniker": "SMS\\appsettings.json",
+              "ToolTip": "D:\\C-DAC\\SMS\\SMS\\appsettings.json",
+              "RelativeToolTip": "SMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-21T08:26:04.338Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
